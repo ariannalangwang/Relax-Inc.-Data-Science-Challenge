@@ -9,4 +9,4 @@ Define an "adopted user" as a user who has logged into the product on three sepa
 Identify which factors predict future user adoption.
 
 
-Please refer to the file named Relax Inc. Data Challenge.ipynb for the Python code I did for this data science challenge.
+Please refer to the file named User Engagement Project.ipynb for the Python code I did for this project.
